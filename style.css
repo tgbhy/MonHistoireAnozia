@@ -1,0 +1,53 @@
+/*Classes*/
+
+.style-paragraphe1{
+	color: red;
+}
+
+.center{
+	text-align: center;
+}
+
+.sommaire{
+	text-decoration: none;
+	color: lightblue;
+	font-size: x-large;
+}
+
+.style{
+	background: lightgreen;
+	text-align: justify;
+	font-weight: 600;
+	text-decoration: underline;
+	font-family: inherit;
+	line-height: 30px;
+	color: black;
+}
+
+
+
+/*ID*/
+
+#style-paragraphe2{
+	color: darkgrey;
+}
+
+
+
+/*Cas Général*/
+
+
+body{
+	background-size: 100%;
+	background-image: url(https://i.imgur.com/M8IFjJr.png);
+}
+
+p{
+	background: lightgreen;
+	text-align: justify;
+	font-weight: 600;
+	text-decoration: initial;
+	font-family: inherit;
+	line-height: 30px;
+}
+
